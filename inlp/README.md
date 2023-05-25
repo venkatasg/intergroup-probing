@@ -1,0 +1,2 @@
+# iNLP
+These are the classes and functions required to run iNLP. These have been taken from [Shauli Ravfogel's](https://github.com/shauli-ravfogel/RC-INLP) public repository and modified to suit our needs.
