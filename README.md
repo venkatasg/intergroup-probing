@@ -16,6 +16,7 @@ The scripts `collect_states.py` and `train_inlp.py` sample hidden state embeddin
 
 ## Citation
 
+```
 @inproceedings{venkat-probing-2023,
     title = {Counterfactual Probing for the influence of Affect and Specificity on Intergroup Bias},
     author = {Govindarajan, Venkata S and Atwell, and Beaver, David I. and Mahowald, Kyle and Li, Junyi Jessy},
@@ -26,3 +27,4 @@ The scripts `collect_states.py` and `train_inlp.py` sample hidden state embeddin
     publisher = {Association for Computational Linguistics},
     url = {http://arxiv.org/abs/2305.16409}
 }
+```
